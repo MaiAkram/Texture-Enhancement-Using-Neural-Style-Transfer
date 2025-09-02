@@ -1,0 +1,89 @@
+Processing drawing with style andy-warhol-marilyn-monroe: 100% 6000/6000 [06:08<00:00, 16.22it/s]
+Iteration 0, Total Loss: 66924900.0000
+Iteration 2000, Total Loss: 5581313.0000
+Iteration 4000, Total Loss: 1655429.7500
+SSIM for drawing with style andy-warhol-marilyn-monroe: 0.48
+
+Processing drawing with style candy: 100% 6000/6000 [06:09<00:00, 16.27it/s]
+Iteration 0, Total Loss: 53101468.0000
+Iteration 2000, Total Loss: 1702756.6250
+Iteration 4000, Total Loss: 676287.8125
+SSIM for drawing with style candy: 0.56
+
+Processing drawing with style composition_vii: 100% 6000/6000 [06:03<00:00, 16.56it/s]
+Iteration 0, Total Loss: 37345716.0000
+Iteration 2000, Total Loss: 603283.1250
+Iteration 4000, Total Loss: 248687.5000
+SSIM for drawing with style composition_vii: 0.48
+
+Processing drawing with style feathers: 100% 6000/6000 [06:09<00:00, 16.24it/s]
+Iteration 0, Total Loss: 26027264.0000
+Iteration 2000, Total Loss: 1362200.0000
+Iteration 4000, Total Loss: 437432.9688
+SSIM for drawing with style feathers: 0.53
+
+Processing drawing with style great-wave-of-kanagawa: 100% 6000/6000 [06:09<00:00, 16.33it/s]
+Iteration 0, Total Loss: 13825525.0000
+Iteration 2000, Total Loss: 245199.8906
+Iteration 4000, Total Loss: 86816.3438
+SSIM for drawing with style great-wave-of-kanagawa: 0.54
+
+Processing drawing with style japan: 100% 6000/6000 [06:09<00:00, 16.24it/s]
+Iteration 0, Total Loss: 12025084.0000
+Iteration 2000, Total Loss: 341333.9688
+Iteration 4000, Total Loss: 95152.9844
+SSIM for drawing with style japan: 0.58
+
+Processing drawing with style la_muse: 100% 6000/6000 [06:02<00:00, 16.53it/s]
+Iteration 0, Total Loss: 62536888.0000
+Iteration 2000, Total Loss: 1818776.1250
+Iteration 4000, Total Loss: 666943.1250
+SSIM for drawing with style la_muse: 0.46
+
+Processing drawing with style mona-lisa-by-leonardo-da-vinci: 100% 6000/6000 [06:08<00:00, 16.34it/s]
+Iteration 0, Total Loss: 5415015.0000
+Iteration 2000, Total Loss: 793950.1875
+Iteration 4000, Total Loss: 453615.1562
+SSIM for drawing with style mona-lisa-by-leonardo-da-vinci: 0.4
+
+Processing drawing with style Monet Umbrella: 100% 6000/6000 [06:08<00:00, 16.26it/s]
+Iteration 0, Total Loss: 5394791.0000
+Iteration 2000, Total Loss: 57967.0703
+Iteration 4000, Total Loss: 15053.3242
+SSIM for drawing with style Monet Umbrella: 0.57
+
+Processing drawing with style mosaic:   0%|          | 0/6000 [00:00<?, ?it/s]Iteration 0, Total Loss: 100294656.0000
+Processing drawing with style mosaic:  33%|███▎      | 2000/6000 [1:29:34<4:23:53,  3.96s/it]Iteration 2000, Total Loss: 1642878.0000
+Processing drawing with style mosaic:  67%|██████▋   | 4000/6000 [3:34:35<3:28:37,  6.26s/it]Iteration 4000, Total Loss: 593311.1250
+Processing drawing with style mosaic: 100%|██████████| 6000/6000 [4:53:44<00:00,  2.94s/it]
+SSIM for drawing with style mosaic: 0.42
+
+Processing drawing with style scream: 100% 6000/6000 [06:03<00:00, 16.55it/s]
+Iteration 0, Total Loss: 6991557.5000
+Iteration 2000, Total Loss: 397924.4375
+Iteration 4000, Total Loss: 145159.8438
+SSIM for drawing with style scream: 0.54
+
+Processing drawing with style starry_night_crop: 100% 6000/6000 [06:02<00:00, 16.50it/s]
+Iteration 0, Total Loss: 49422836.0000
+Iteration 2000, Total Loss: 1116403.8750
+Iteration 4000, Total Loss: 334697.5000
+SSIM for drawing with style starry_night_crop: 0.39
+
+Processing drawing with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 100% 6000/6000 [06:04<00:00, 16.28it/s]
+Iteration 0, Total Loss: 31490790.0000
+Iteration 2000, Total Loss: 1851245.6250
+Iteration 4000, Total Loss: 584040.8750
+SSIM for drawing with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 0.51
+
+Processing drawing with style udnie: 100% 6000/6000 [06:09<00:00, 16.25it/s]
+Iteration 0, Total Loss: 4868703.5000
+Iteration 2000, Total Loss: 208122.0625
+Iteration 4000, Total Loss: 71323.8359
+SSIM for drawing with style udnie: 0.64
+
+Processing drawing with style Vincent-van-Gogh: 100% 6000/6000 [06:08<00:00, 16.24it/s]
+Iteration 0, Total Loss: 11305421.0000
+Iteration 2000, Total Loss: 256780.0625
+Iteration 4000, Total Loss: 93061.2344
+SSIM for drawing with style Vincent-van-Gogh: 0.48

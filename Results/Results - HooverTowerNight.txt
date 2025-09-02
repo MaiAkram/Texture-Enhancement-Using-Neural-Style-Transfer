@@ -1,0 +1,89 @@
+Processing hoovertowernight with style andy-warhol-marilyn-monroe: 100% 6000/6000 [06:00<00:00, 16.63it/s]
+Iteration 0, Total Loss: 61737208.0000
+Iteration 2000, Total Loss: 5707336.5000
+Iteration 4000, Total Loss: 1774418.7500
+SSIM for hoovertowernight with style andy-warhol-marilyn-monroe: 0.36
+
+Processing hoovertowernight with style candy: 100% 6000/6000 [06:00<00:00, 16.65it/s]
+Iteration 0, Total Loss: 48179024.0000
+Iteration 2000, Total Loss: 2608643.2500
+Iteration 4000, Total Loss: 1020157.1875
+SSIM for hoovertowernight with style candy: 0.41
+
+Processing hoovertowernight with style composition_vii: 100% 6000/6000 [06:01<00:00, 16.54it/s]
+Iteration 0, Total Loss: 33785800.0000
+Iteration 2000, Total Loss: 940646.0625
+Iteration 4000, Total Loss: 291252.3125
+SSIM for hoovertowernight with style composition_vii: 0.33
+
+Processing hoovertowernight with style feathers: 100% 6000/6000 [06:00<00:00, 16.57it/s]
+Iteration 0, Total Loss: 30972116.0000
+Iteration 2000, Total Loss: 3975036.5000
+Iteration 4000, Total Loss: 2161034.2500
+SSIM for hoovertowernight with style feathers: 0.37
+
+Processing hoovertowernight with style great-wave-of-kanagawa: 100% 6000/6000 [06:01<00:00, 16.65it/s]
+Iteration 0, Total Loss: 14959966.0000
+Iteration 2000, Total Loss: 752234.5625
+Iteration 4000, Total Loss: 277306.3750
+SSIM for hoovertowernight with style great-wave-of-kanagawa: 0.38
+
+Processing hoovertowernight with style japan: 100% 6000/6000 [06:01<00:00, 16.60it/s]
+Iteration 0, Total Loss: 10274939.0000
+Iteration 2000, Total Loss: 715911.8125
+Iteration 4000, Total Loss: 311425.8125
+SSIM for hoovertowernight with style japan: 0.43
+
+Processing hoovertowernight with style la_muse: 100% 6000/6000 [06:00<00:00, 16.60it/s]
+Iteration 0, Total Loss: 52385980.0000
+Iteration 2000, Total Loss: 1528605.0000
+Iteration 4000, Total Loss: 482083.8750
+SSIM for hoovertowernight with style la_muse: 0.33
+
+Processing hoovertowernight with style mona-lisa-by-leonardo-da-vinci: 100% 6000/6000 [06:00<00:00, 16.69it/s]
+Iteration 0, Total Loss: 8665274.0000
+Iteration 2000, Total Loss: 255894.6562
+Iteration 4000, Total Loss: 91593.2422
+SSIM for hoovertowernight with style mona-lisa-by-leonardo-da-vinci: 0.53
+
+Processing hoovertowernight with style Monet Umbrella: 100% 6000/6000 [06:00<00:00, 16.64it/s]
+Iteration 0, Total Loss: 8899787.0000
+Iteration 2000, Total Loss: 480387.6875
+Iteration 4000, Total Loss: 176292.7031
+SSIM for hoovertowernight with style Monet Umbrella: 0.45
+
+Processing hoovertowernight with style mosaic: 100% 6000/6000 [05:59<00:00, 16.71it/s]
+Iteration 0, Total Loss: 99213104.0000
+Iteration 2000, Total Loss: 5156651.5000
+Iteration 4000, Total Loss: 1816528.8750
+SSIM for hoovertowernight with style mosaic: 0.30
+
+Processing hoovertowernight with style scream: 100% 6000/6000 [06:00<00:00, 16.68it/s]
+Iteration 0, Total Loss: 11260246.0000
+Iteration 2000, Total Loss: 461237.7500
+Iteration 4000, Total Loss: 88687.7188
+SSIM for hoovertowernight with style scream: 0.35
+
+Processing hoovertowernight with style starry-night: 100% 6000/6000 [06:20<00:00, 15.65it/s]
+Iteration 0, Total Loss: 44119780.0000
+Iteration 2000, Total Loss: 921690.1875
+Iteration 4000, Total Loss: 252338.4375
+SSIM for hoovertowernight with style starry-night: 0.31
+
+Processing hoovertowernight with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 100% 6000/6000 [06:09<00:00, 16.28it/s]
+Iteration 0, Total Loss: 21244270.0000
+Iteration 2000, Total Loss: 860481.1875
+Iteration 4000, Total Loss: 213117.2500
+SSIM for hoovertowernight with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 0.41
+
+Processing hoovertowernight with style udnie: 100% 6000/6000 [06:10<00:00, 16.18it/s]
+Iteration 0, Total Loss: 6813798.0000
+Iteration 2000, Total Loss: 241693.6094
+Iteration 4000, Total Loss: 81962.5312
+SSIM for hoovertowernight with style udnie: 0.50
+
+Processing hoovertowernight with style Vincent-van-Gogh: 100% 6000/6000 [06:09<00:00, 16.18it/s]
+Iteration 0, Total Loss: 11116869.0000
+Iteration 2000, Total Loss: 517503.4375
+Iteration 4000, Total Loss: 167621.1406
+SSIM for hoovertowernight with style Vincent-van-Gogh: 0.35

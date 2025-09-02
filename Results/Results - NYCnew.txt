@@ -1,0 +1,95 @@
+Processing nycNew with style andy-warhol-marilyn-monroe: 100% 6000/6000 [06:03<00:00, 16.50it/s]
+Iteration 0, Total Loss: 69027120.0000
+Iteration 2000, Total Loss: 6753418.0000
+Iteration 4000, Total Loss: 1833411.5000
+SSIM for nycNew with style andy-warhol-marilyn-monroe: 0.55
+
+Processing nycNew with style candy: 100% 6000/6000 [06:03<00:00, 16.57it/s]
+Iteration 0, Total Loss: 54792520.0000
+Iteration 2000, Total Loss: 2436665.0000
+Iteration 4000, Total Loss: 677390.7500
+SSIM for nycNew with style candy: 0.60
+
+Processing nycNew with style composition_vii: 100% 6000/6000 [06:03<00:00, 16.46it/s]
+Iteration 0, Total Loss: 39603180.0000
+Iteration 2000, Total Loss: 909264.5000
+Iteration 4000, Total Loss: 279221.0312
+SSIM for nycNew with style composition_vii: 0.56
+
+Processing nycNew with style feathers: 100% 6000/6000 [06:03<00:00, 16.52it/s]
+Iteration 0, Total Loss: 27935236.0000
+Iteration 2000, Total Loss: 1358210.5000
+Iteration 4000, Total Loss: 451241.5625
+SSIM for nycNew with style feathers: 0.58
+
+Processing nycNew with style great-wave-of-kanagawa: 100% 6000/6000 [06:03<00:00, 16.56it/s]
+Iteration 0, Total Loss: 12773296.0000
+Iteration 2000, Total Loss: 190651.8281
+Iteration 4000, Total Loss: 55618.8516
+SSIM for nycNew with style great-wave-of-kanagawa: 0.67
+
+Processing nycNew with style japan: 100% 6000/6000 [06:02<00:00, 16.54it/s]
+Iteration 0, Total Loss: 8108545.5000
+Iteration 2000, Total Loss: 206972.0469
+Iteration 4000, Total Loss: 63850.9219
+SSIM for nycNew with style japan: 0.68
+
+Processing nycNew with style la_muse: 100% 6000/6000 [06:03<00:00, 16.53it/s]
+Iteration 0, Total Loss: 57019416.0000
+Iteration 2000, Total Loss: 1687324.7500
+Iteration 4000, Total Loss: 546964.8125
+SSIM for nycNew with style la_muse: 0.55
+
+Processing nycNew with style mona-lisa-by-leonardo-da-vinci: 100% 6000/6000 [06:03<00:00, 16.48it/s]
+Iteration 0, Total Loss: 10753186.0000
+Iteration 2000, Total Loss: 1890927.3750
+Iteration 4000, Total Loss: 1174767.3750
+SSIM for nycNew with style mona-lisa-by-leonardo-da-vinci: 0.65
+
+Processing nycNew with style Monet Umbrella: 100% 6000/6000 [06:03<00:00, 16.58it/s]
+Iteration 0, Total Loss: 5105305.0000
+Iteration 2000, Total Loss: 65250.7461
+Iteration 4000, Total Loss: 34119.4102
+SSIM for nycNew with style Monet Umbrella: 0.77
+
+Processing nycNew with style mosaic: 100% 6000/6000 [05:57<00:00, 16.77it/s]
+Iteration 0, Total Loss: 104123432.0000
+Iteration 2000, Total Loss: 2080080.6250
+Iteration 4000, Total Loss: 516871.2500
+SSIM for nycNew with style mosaic: 0.46
+
+Processing nycNew with style scream: 100% 6000/6000 [05:57<00:00, 16.75it/s]
+Iteration 0, Total Loss: 11643783.0000
+Iteration 2000, Total Loss: 782930.8750
+Iteration 4000, Total Loss: 239055.2500
+SSIM for nycNew with style scream: 0.61
+
+Processing nycNew with style starry_night_crop: 100% 6000/6000 [06:03<00:00, 16.54it/s]
+Iteration 0, Total Loss: 35801096.0000
+Iteration 2000, Total Loss: 657697.1250
+Iteration 4000, Total Loss: 192268.0156
+SSIM for nycNew with style starry_night_crop: 0.57
+
+Processing nycNew with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 100% 6000/6000 [05:58<00:00, 16.74it/s]
+Iteration 0, Total Loss: 30355458.0000
+Iteration 2000, Total Loss: 2692648.5000
+Iteration 4000, Total Loss: 653334.1875
+SSIM for nycNew with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 0.58
+
+Processing nycNew with style udnie: 100% 6000/6000 [05:59<00:00, 16.60it/s]
+Iteration 0, Total Loss: 8594454.0000
+Iteration 2000, Total Loss: 346016.4688
+Iteration 4000, Total Loss: 154212.9219
+SSIM for nycNew with style udnie: 0.70
+
+Processing nycNew with style Vincent-van-Gogh: 100% 6000/6000 [05:57<00:00, 16.81it/s]
+Iteration 0, Total Loss: 8599650.0000
+Iteration 2000, Total Loss: 111088.6406
+Iteration 4000, Total Loss: 36253.0664
+SSIM for nycNew with style Vincent-van-Gogh: 0.64
+
+Processing nycNew with style wave_crop: 100% 6000/6000 [05:58<00:00, 16.77it/s]
+Iteration 0, Total Loss: 15921072.0000
+Iteration 2000, Total Loss: 222798.1875
+Iteration 4000, Total Loss: 62400.2070
+SSIM for nycNew with style wave_crop: 0.66

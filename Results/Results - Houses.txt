@@ -1,0 +1,95 @@
+Processing houses with style andy-warhol-marilyn-monroe: 100% 6000/6000 [05:59<00:00, 16.75it/s]
+Iteration 0, Total Loss: 61045164.0000
+Iteration 2000, Total Loss: 5067326.0000
+Iteration 4000, Total Loss: 1544191.3750
+SSIM for houses with style andy-warhol-marilyn-monroe: 0.53
+
+Processing houses with style candy: 100% 6000/6000 [05:56<00:00, 16.75it/s]
+Iteration 0, Total Loss: 47649140.0000
+Iteration 2000, Total Loss: 1782704.7500
+Iteration 4000, Total Loss: 623551.3125
+SSIM for houses with style candy: 0.63
+
+Processing houses with style composition_vii: 100% 6000/6000 [05:59<00:00, 16.63it/s]
+Iteration 0, Total Loss: 32921706.0000
+Iteration 2000, Total Loss: 794251.6875
+Iteration 4000, Total Loss: 319373.6875
+SSIM for houses with style composition_vii: 0.56
+
+Processing houses with style feathers: 100% 6000/6000 [05:58<00:00, 16.67it/s]
+Iteration 0, Total Loss: 23898254.0000
+Iteration 2000, Total Loss: 900309.3750
+Iteration 4000, Total Loss: 251553.2188
+SSIM for houses with style feathers: 0.54
+
+Processing houses with style great-wave-of-kanagawa: 100% 6000/6000 [05:59<00:00, 16.81it/s]
+Iteration 0, Total Loss: 9916113.0000
+Iteration 2000, Total Loss: 229451.6406
+Iteration 4000, Total Loss: 76542.7422
+SSIM for houses with style great-wave-of-kanagawa: 0.63
+
+Processing houses with style japan: 100% 6000/6000 [05:58<00:00, 16.75it/s]
+Iteration 0, Total Loss: 7992263.5000
+Iteration 2000, Total Loss: 193672.2656
+Iteration 4000, Total Loss: 59451.1484
+SSIM for houses with style japan: 0.65
+
+Processing houses with style la_muse: 100% 6000/6000 [05:58<00:00, 16.70it/s]
+Iteration 0, Total Loss: 48416208.0000
+Iteration 2000, Total Loss: 1568240.7500
+Iteration 4000, Total Loss: 625490.8750
+SSIM for houses with style la_muse: 0.56
+
+Processing houses with style mona-lisa-by-leonardo-da-vinci: 100% 6000/6000 [05:57<00:00, 16.82it/s]
+Iteration 0, Total Loss: 10350972.0000
+Iteration 2000, Total Loss: 1193565.8750
+Iteration 4000, Total Loss: 694142.0000
+SSIM for houses with style mona-lisa-by-leonardo-da-vinci: 0.58
+
+Processing houses with style Monet Umbrella: 100% 6000/6000 [05:58<00:00, 16.65it/s]
+Iteration 0, Total Loss: 5943906.5000
+Iteration 2000, Total Loss: 61117.3477
+Iteration 4000, Total Loss: 13168.3154
+SSIM for houses with style Monet Umbrella: 0.68
+
+Processing houses with style mosaic: 100% 6000/6000 [05:57<00:00, 16.77it/s]
+Iteration 0, Total Loss: 92663024.0000
+Iteration 2000, Total Loss: 1911529.8750
+Iteration 4000, Total Loss: 643439.6250
+SSIM for houses with style mosaic: 0.49
+
+Processing houses with style scream: 100% 6000/6000 [05:58<00:00, 16.73it/s]
+Iteration 0, Total Loss: 10070191.0000
+Iteration 2000, Total Loss: 684555.1875
+Iteration 4000, Total Loss: 223654.9062
+SSIM for houses with style scream: 0.59
+
+Processing houses with style starry_night_crop: 100% 6000/6000 [05:58<00:00, 16.67it/s]
+Iteration 0, Total Loss: 37025816.0000
+Iteration 2000, Total Loss: 1085709.6250
+Iteration 4000, Total Loss: 295498.5000
+SSIM for houses with style starry_night_crop: 0.52
+
+Processing houses with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 100% 6000/6000 [05:57<00:00, 16.70it/s]
+Iteration 0, Total Loss: 28065630.0000
+Iteration 2000, Total Loss: 2085174.5000
+Iteration 4000, Total Loss: 570285.6875
+SSIM for houses with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 0.56
+
+Processing houses with style udnie: 100% 6000/6000 [05:59<00:00, 16.71it/s]
+Iteration 0, Total Loss: 7191502.0000
+Iteration 2000, Total Loss: 343719.2812
+Iteration 4000, Total Loss: 130154.6328
+SSIM for houses with style udnie: 0.67
+
+Processing houses with style Vincent-van-Gogh: 100% 6000/6000 [05:57<00:00, 16.76it/s]
+Iteration 0, Total Loss: 7603841.0000
+Iteration 2000, Total Loss: 269522.3125
+Iteration 4000, Total Loss: 74699.4141
+SSIM for houses with style Vincent-van-Gogh: 0.53
+
+Processing houses with style wave_crop: 100% 6000/6000 [05:58<00:00, 16.78it/s]
+Iteration 0, Total Loss: 13079760.0000
+Iteration 2000, Total Loss: 266093.7188
+Iteration 4000, Total Loss: 86946.9531
+SSIM for houses with style wave_crop: 0.62

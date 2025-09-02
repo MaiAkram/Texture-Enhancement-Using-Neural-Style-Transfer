@@ -1,0 +1,95 @@
+Processing nyc with style andy-warhol-marilyn-monroe: 100% 6000/6000 [06:06<00:00, 16.30it/s]
+Iteration 0, Total Loss: 47838600.0000
+Iteration 2000, Total Loss: 3432799.0000
+Iteration 4000, Total Loss: 888265.9375
+SSIM for nyc with style andy-warhol-marilyn-monroe: 0.56
+
+Processing nyc with style candy: 100% 6000/6000 [06:06<00:00, 16.24it/s]
+Iteration 0, Total Loss: 39528820.0000
+Iteration 2000, Total Loss: 1225793.8750
+Iteration 4000, Total Loss: 409092.4688
+SSIM for nyc with style candy: 0.64
+
+Processing nyc with style composition_vii: 100% 6000/6000 [06:08<00:00, 16.26it/s]
+Iteration 0, Total Loss: 26414002.0000
+Iteration 2000, Total Loss: 327938.0000
+Iteration 4000, Total Loss: 115062.4062
+SSIM for nyc with style composition_vii: 0.63
+
+Processing nyc with style feathers: 100% 6000/6000 [06:06<00:00, 16.35it/s]
+Iteration 0, Total Loss: 21377452.0000
+Iteration 2000, Total Loss: 1404432.2500
+Iteration 4000, Total Loss: 540441.6250
+SSIM for nyc with style feathers: 0.56
+
+Processing nyc with style great-wave-of-kanagawa: 100% 6000/6000 [06:06<00:00, 16.43it/s]
+Iteration 0, Total Loss: 8661895.0000
+Iteration 2000, Total Loss: 173619.2656
+Iteration 4000, Total Loss: 69721.6562
+SSIM for nyc with style great-wave-of-kanagawa: 0.68
+
+Processing nyc with style japan: 100% 6000/6000 [06:05<00:00, 16.44it/s]
+Iteration 0, Total Loss: 8268940.5000
+Iteration 2000, Total Loss: 195868.0312
+Iteration 4000, Total Loss: 63619.8633
+SSIM for nyc with style japan: 0.67
+
+Processing nyc with style la_muse: 100% 6000/6000 [06:05<00:00, 16.57it/s]
+Iteration 0, Total Loss: 35527612.0000
+Iteration 2000, Total Loss: 659591.5625
+Iteration 4000, Total Loss: 280809.7188
+SSIM for nyc with style la_muse: 0.63
+
+Processing nyc with style mona-lisa-by-leonardo-da-vinci: 100% 6000/6000 [06:05<00:00, 16.49it/s]
+Iteration 0, Total Loss: 15771205.0000
+Iteration 2000, Total Loss: 1447471.6250
+Iteration 4000, Total Loss: 723584.1250
+SSIM for nyc with style mona-lisa-by-leonardo-da-vinci: 0.43
+
+Processing nyc with style Monet Umbrella: 100% 6000/6000 [06:05<00:00, 16.51it/s]
+Iteration 0, Total Loss: 10285152.0000
+Iteration 2000, Total Loss: 94548.2734
+Iteration 4000, Total Loss: 24143.6094
+SSIM for nyc with style Monet Umbrella: 0.65
+
+Processing nyc with style mosaic: 100% 6000/6000 [05:57<00:00, 16.74it/s]
+Iteration 0, Total Loss: 81140072.0000
+Iteration 2000, Total Loss: 1738675.0000
+Iteration 4000, Total Loss: 558961.8750
+SSIM for nyc with style mosaic: 0.55
+
+Processing nyc with style scream: 100% 6000/6000 [05:58<00:00, 16.73it/s]
+Iteration 0, Total Loss: 12622982.0000
+Iteration 2000, Total Loss: 429890.8438
+Iteration 4000, Total Loss: 129285.3594
+SSIM for nyc with style scream: 0.56
+
+Processing nyc with style starry_night_crop: 100% 6000/6000 [06:05<00:00, 16.39it/s]
+Iteration 0, Total Loss: 32401274.0000
+Iteration 2000, Total Loss: 513749.1562
+Iteration 4000, Total Loss: 166368.5312
+SSIM for nyc with style starry_night_crop: 0.57
+
+Processing nyc with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 100% 6000/6000 [05:58<00:00, 16.72it/s]
+Iteration 0, Total Loss: 24130992.0000
+Iteration 2000, Total Loss: 1137396.6250
+Iteration 4000, Total Loss: 245043.7812
+SSIM for nyc with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 0.54
+
+Processing nyc with style udnie: 100% 6000/6000 [05:59<00:00, 16.72it/s]
+Iteration 0, Total Loss: 9370795.0000
+Iteration 2000, Total Loss: 221353.5000
+Iteration 4000, Total Loss: 83344.0078
+SSIM for nyc with style udnie: 0.65
+
+Processing nyc with style Vincent-van-Gogh: 100% 6000/6000 [05:57<00:00, 16.84it/s]
+Iteration 0, Total Loss: 8196558.0000
+Iteration 2000, Total Loss: 190588.0781
+Iteration 4000, Total Loss: 71950.2266
+SSIM for nyc with style Vincent-van-Gogh: 0.61
+
+Processing nyc with style wave_crop: 100% 6000/6000 [05:58<00:00, 16.72it/s]
+Iteration 0, Total Loss: 10958733.0000
+Iteration 2000, Total Loss: 187818.6875
+Iteration 4000, Total Loss: 70080.6797
+SSIM for nyc with style wave_crop: 0.67

@@ -1,0 +1,79 @@
+Processing chicago with style andy-warhol-marilyn-monroe: 100% 6000/6000 [06:23<00:00, 15.60it/s]
+Iteration 0, Total Loss: 69351752.0000
+Iteration 2000, Total Loss: 6261312.0000
+Iteration 4000, Total Loss: 1898862.7500
+SSIM for chicago with style andy-warhol-marilyn-monroe: 0.46
+
+Processing chicago with style candy: 100% 6000/6000 [06:24<00:00, 15.69it/s]
+Iteration 0, Total Loss: 55601836.0000
+Iteration 2000, Total Loss: 2232713.2500
+Iteration 4000, Total Loss: 707915.3750
+SSIM for chicago with style candy: 0.53
+
+Processing chicago with style composition_vii: 100% 6000/6000 [06:24<00:00, 15.50it/s]
+Iteration 0, Total Loss: 41093816.0000
+Iteration 2000, Total Loss: 992402.8750
+Iteration 4000, Total Loss: 335185.1875
+SSIM for chicago with style composition_vii: 0.50
+
+Processing chicago with style feathers: 100% 6000/6000 [06:24<00:00, 15.51it/s]
+Iteration 0, Total Loss: 30007362.0000
+Iteration 2000, Total Loss: 1251129.0000
+Iteration 4000, Total Loss: 415450.1875
+SSIM for chicago with style feathers: 0.50
+
+Processing chicago with style great-wave-of-kanagawa: 100% 6000/6000 [06:23<00:00, 15.58it/s]
+Iteration 0, Total Loss: 14925236.0000
+Iteration 2000, Total Loss: 330685.5312
+Iteration 4000, Total Loss: 106018.8516
+SSIM for chicago with style great-wave-of-kanagawa: 0.57
+
+Processing chicago with style japan: 100% 6000/6000 [06:24<00:00, 15.58it/s]
+Iteration 0, Total Loss: 9373246.0000
+Iteration 2000, Total Loss: 238090.4531
+Iteration 4000, Total Loss: 77391.6250
+SSIM for chicago with style japan: 0.59
+
+Processing chicago with style la_muse: 100% 6000/6000 [06:25<00:00, 15.57it/s]
+Iteration 0, Total Loss: 59324016.0000
+Iteration 2000, Total Loss: 1851169.1250
+Iteration 4000, Total Loss: 683303.5000
+SSIM for chicago with style la_muse: 0.47
+
+Processing chicago with style mona-lisa-by-leonardo-da-vinci: 100% 6000/6000 [06:24<00:00, 15.72it/s]
+Iteration 0, Total Loss: 11123173.0000
+Iteration 2000, Total Loss: 1249512.5000
+Iteration 4000, Total Loss: 557783.8750
+SSIM for chicago with style mona-lisa-by-leonardo-da-vinci: 0.56
+
+Processing chicago with style Monet Umbrella: 100% 6000/6000 [06:24<00:00, 15.54it/s]
+Iteration 0, Total Loss: 6703104.0000
+Iteration 2000, Total Loss: 72517.1562
+Iteration 4000, Total Loss: 17286.2070
+SSIM for chicago with style Monet Umbrella: 0.64
+
+Processing chicago with style mosaic: 100% 6000/6000 [06:23<00:00, 15.52it/s]
+Iteration 0, Total Loss: 107727104.0000
+Iteration 2000, Total Loss: 2807054.0000
+Iteration 4000, Total Loss: 776011.9375
+SSIM for chicago with style mosaic: 0.40
+
+Processing chicago with style scream: 100% 6000/6000 [06:23<00:00, 15.69it/s]
+Iteration 0, Total Loss: 12716784.0000
+Iteration 2000, Total Loss: 735589.4375
+Iteration 4000, Total Loss: 242026.7344
+SSIM for chicago with style scream: 0.57
+
+Processing chicago with style starry-night: 100% 6000/6000 [06:23<00:00, 15.53it/s]
+Iteration 0, Total Loss: 43414308.0000
+Iteration 2000, Total Loss: 863113.6875
+Iteration 4000, Total Loss: 244272.9688
+SSIM for chicago with style starry-night: 0.43
+
+
+
+Processing chicago with style wave_crop:   0%|          | 0/6000 [00:00<?, ?it/s]Iteration 0, Total Loss: 18190600.0000
+Processing chicago with style wave_crop:  33%|███▎      | 2000/6000 [2:03:15<4:05:12,  3.68s/it]Iteration 2000, Total Loss: 369767.6250
+Processing chicago with style wave_crop:  67%|██████▋   | 4000/6000 [3:29:28<1:46:18,  3.19s/it]Iteration 4000, Total Loss: 114170.1953
+Processing chicago with style wave_crop: 100%|██████████| 6000/6000 [4:46:57<00:00,  2.87s/it]
+SSIM for chicago with style wave_crop: 0.57

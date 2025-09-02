@@ -1,0 +1,95 @@
+Processing new-york-city with style andy-warhol-marilyn-monroe: 100% 6000/6000 [06:03<00:00, 16.55it/s]
+Iteration 0, Total Loss: 61623760.0000
+Iteration 2000, Total Loss: 5476111.0000
+Iteration 4000, Total Loss: 1162787.1250
+SSIM for new-york-city with style andy-warhol-marilyn-monroe: 0.48
+
+Processing new-york-city with style candy: 100% 6000/6000 [06:03<00:00, 16.48it/s]
+Iteration 0, Total Loss: 48610396.0000
+Iteration 2000, Total Loss: 1969365.2500
+Iteration 4000, Total Loss: 566369.7500
+SSIM for new-york-city with style candy: 0.56
+
+Processing new-york-city with style composition_vii: 100% 6000/6000 [05:56<00:00, 16.53it/s]
+Iteration 0, Total Loss: 33902680.0000
+Iteration 2000, Total Loss: 695394.8750
+Iteration 4000, Total Loss: 232399.6875
+SSIM for new-york-city with style composition_vii: 0.55
+
+Processing new-york-city with style feathers: 100% 6000/6000 [06:03<00:00, 16.44it/s]
+Iteration 0, Total Loss: 28455064.0000
+Iteration 2000, Total Loss: 1259338.6250
+Iteration 4000, Total Loss: 426533.5312
+SSIM for new-york-city with style feathers: 0.53
+
+Processing new-york-city with style great-wave-of-kanagawa: 100% 6000/6000 [06:04<00:00, 16.46it/s]
+Iteration 0, Total Loss: 12068350.0000
+Iteration 2000, Total Loss: 189508.9844
+Iteration 4000, Total Loss: 72569.1484
+SSIM for new-york-city with style great-wave-of-kanagawa: 0.67
+
+Processing new-york-city with style japan: 100% 6000/6000 [06:03<00:00, 16.52it/s]
+Iteration 0, Total Loss: 11509779.0000
+Iteration 2000, Total Loss: 190185.5781
+Iteration 4000, Total Loss: 56186.4297
+SSIM for new-york-city with style japan: 0.66
+
+Processing new-york-city with style la_muse: 100% 6000/6000 [06:03<00:00, 16.51it/s]
+Iteration 0, Total Loss: 46330632.0000
+Iteration 2000, Total Loss: 1416150.0000
+Iteration 4000, Total Loss: 455306.5312
+SSIM for new-york-city with style la_muse: 0.58
+
+Processing new-york-city with style mona-lisa-by-leonardo-da-vinci: 100% 6000/6000 [06:03<00:00, 16.53it/s]
+Iteration 0, Total Loss: 16091292.0000
+Iteration 2000, Total Loss: 1809003.1250
+Iteration 4000, Total Loss: 1033363.2500
+SSIM for new-york-city with style mona-lisa-by-leonardo-da-vinci: 0.56
+
+Processing new-york-city with style Monet Umbrella: 100% 6000/6000 [06:03<00:00, 16.55it/s]
+Iteration 0, Total Loss: 11066148.0000
+Iteration 2000, Total Loss: 85167.4688
+Iteration 4000, Total Loss: 26460.6836
+SSIM for new-york-city with style Monet Umbrella: 0.72
+
+Processing new-york-city with style mosaic: 100% 6000/6000 [05:58<00:00, 16.71it/s]
+Iteration 0, Total Loss: 94834904.0000
+Iteration 2000, Total Loss: 2095643.3750
+Iteration 4000, Total Loss: 620290.9375
+SSIM for new-york-city with style mosaic: 0.48
+
+Processing new-york-city with style scream: 100% 6000/6000 [05:57<00:00, 16.73it/s]
+Iteration 0, Total Loss: 13449765.0000
+Iteration 2000, Total Loss: 757032.9375
+Iteration 4000, Total Loss: 171579.5312
+SSIM for new-york-city with style scream: 0.55
+
+Processing new-york-city with style starry_night_crop: 100% 6000/6000 [06:02<00:00, 16.48it/s]
+Iteration 0, Total Loss: 34953612.0000
+Iteration 2000, Total Loss: 329484.2188
+Iteration 4000, Total Loss: 129432.9766
+SSIM for new-york-city with style starry_night_crop: 0.60
+
+Processing new-york-city with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 100% 6000/6000 [05:58<00:00, 16.79it/s]
+Iteration 0, Total Loss: 26906056.0000
+Iteration 2000, Total Loss: 2119992.2500
+Iteration 4000, Total Loss: 369916.7812
+SSIM for new-york-city with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 0.54
+
+Processing new-york-city with style udnie: 100% 6000/6000 [05:58<00:00, 16.65it/s]
+Iteration 0, Total Loss: 12185218.0000
+Iteration 2000, Total Loss: 386750.1250
+Iteration 4000, Total Loss: 146098.8906
+SSIM for new-york-city with style udnie: 0.63
+
+Processing new-york-city with style Vincent-van-Gogh: 100% 6000/6000 [05:57<00:00, 16.75it/s]
+Iteration 0, Total Loss: 11517623.0000
+Iteration 2000, Total Loss: 173752.4688
+Iteration 4000, Total Loss: 58983.3320
+SSIM for new-york-city with style Vincent-van-Gogh: 0.58
+
+Processing new-york-city with style wave_crop: 100% 6000/6000 [05:58<00:00, 16.73it/s]
+Iteration 0, Total Loss: 14842608.0000
+Iteration 2000, Total Loss: 198501.3906
+Iteration 4000, Total Loss: 72154.9844
+SSIM for new-york-city with style wave_crop: 0.65

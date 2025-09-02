@@ -1,0 +1,95 @@
+Processing beach with style andy-warhol-marilyn-monroe: 100% 6000/6000 [06:02<00:00, 16.50it/s]
+Iteration 0, Total Loss: 72931720.0000
+Iteration 2000, Total Loss: 5156457.5000
+Iteration 4000, Total Loss: 1199620.2500
+SSIM for beach with style andy-warhol-marilyn-monroe: 0.50
+
+Processing beach with style candy: 100% 6000/6000 [06:02<00:00, 16.49it/s]
+Iteration 0, Total Loss: 58614168.0000
+Iteration 2000, Total Loss: 2171853.7500
+Iteration 4000, Total Loss: 707751.5625
+SSIM for beach with style candy: 0.59
+
+Processing beach with style composition_vii: 100% 6000/6000 [06:10<00:00, 16.31it/s]
+Iteration 0, Total Loss: 39022084.0000
+Iteration 2000, Total Loss: 694542.8750
+Iteration 4000, Total Loss: 241981.3125
+SSIM for beach with style composition_vii: 0.54
+
+Processing beach with style feathers: 100% 6000/6000 [06:02<00:00, 16.52it/s]
+Iteration 0, Total Loss: 31495126.0000
+Iteration 2000, Total Loss: 1396961.1250
+Iteration 4000, Total Loss: 516065.2812
+SSIM for beach with style feathers: 0.53
+
+Processing beach with style great-wave-of-kanagawa: 100% 6000/6000 [06:02<00:00, 16.50it/s]
+Iteration 0, Total Loss: 14941888.0000
+Iteration 2000, Total Loss: 179954.9062
+Iteration 4000, Total Loss: 61883.6719
+SSIM for beach with style great-wave-of-kanagawa: 0.63
+
+Processing beach with style japan: 100% 6000/6000 [06:04<00:00, 16.32it/s]
+Iteration 0, Total Loss: 9090992.0000
+Iteration 2000, Total Loss: 189442.9688
+Iteration 4000, Total Loss: 67945.8281
+SSIM for beach with style japan: 0.64
+
+Processing beach with style la_muse: 100% 6000/6000 [06:05<00:00, 16.44it/s]
+Iteration 0, Total Loss: 68345800.0000
+Iteration 2000, Total Loss: 1902742.0000
+Iteration 4000, Total Loss: 615042.5000
+SSIM for beach with style la_muse: 0.47
+
+Processing beach with style mona-lisa-by-leonardo-da-vinci: 100% 6000/6000 [05:59<00:00, 16.53it/s]
+Iteration 0, Total Loss: 3529542.7500
+Iteration 2000, Total Loss: 1401214.8750
+Iteration 4000, Total Loss: 797925.8750
+SSIM for beach with style mona-lisa-by-leonardo-da-vinci: 0.60
+
+Processing beach with style Monet Umbrella: 100% 6000/6000 [06:03<00:00, 16.57it/s]
+Iteration 0, Total Loss: 2875005.0000
+Iteration 2000, Total Loss: 56048.9453
+Iteration 4000, Total Loss: 30217.1562
+SSIM for beach with style Monet Umbrella: 0.76
+
+Processing beach with style mosaic: 100% 6000/6000 [06:02<00:00, 16.56it/s]
+Iteration 0, Total Loss: 115767896.0000
+Iteration 2000, Total Loss: 1886681.0000
+Iteration 4000, Total Loss: 553001.7500
+SSIM for beach with style mosaic: 0.38
+
+Processing beach with style scream: 100% 6000/6000 [06:02<00:00, 16.56it/s]
+Iteration 0, Total Loss: 5353588.0000
+Iteration 2000, Total Loss: 355171.3438
+Iteration 4000, Total Loss: 157553.2656
+SSIM for beach with style scream: 0.62
+
+Processing beach with style starry_night_crop: 100% 6000/6000 [06:04<00:00, 16.31it/s]
+Iteration 0, Total Loss: 50258252.0000
+Iteration 2000, Total Loss: 743621.5000
+Iteration 4000, Total Loss: 305780.2188
+SSIM for beach with style starry_night_crop: 0.50
+
+Processing beach with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 100% 6000/6000 [06:03<00:00, 16.58it/s]
+Iteration 0, Total Loss: 35519976.0000
+Iteration 2000, Total Loss: 2609697.0000
+Iteration 4000, Total Loss: 786459.6250
+SSIM for beach with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 0.59
+
+Processing beach with style udnie: 100% 6000/6000 [06:03<00:00, 16.47it/s]
+Iteration 0, Total Loss: 5644569.5000
+Iteration 2000, Total Loss: 327838.4062
+Iteration 4000, Total Loss: 141506.2656
+SSIM for beach with style udnie: 0.72
+
+Processing beach with style Vincent-van-Gogh: 100% 6000/6000 [06:02<00:00, 16.60it/s]
+Iteration 0, Total Loss: 8359897.5000
+Iteration 2000, Total Loss: 116985.7344
+Iteration 4000, Total Loss: 29513.1328
+SSIM for beach with style Vincent-van-Gogh: 0.57
+
+Processing beach with style wave_crop:   0%|          | 0/6000 [00:00<?, ?it/s]Iteration 0, Total Loss: 19059002.0000
+Processing beach with style wave_crop:  33%|███▎      | 2000/6000 [1:57:36<2:43:48,  2.46s/it]Iteration 2000, Total Loss: 235320.8438
+Processing beach with style wave_crop:  67%|██████▋   | 4000/6000 [3:24:55<1:26:29,  2.59s/it]Iteration 4000, Total Loss: 78062.6328
+Processing beach with style wave_crop: 100%|██████████| 6000/6000 [4:58:48<00:00,  2.99s/it]
+SSIM for beach with style wave_crop: 0.64
