@@ -70,7 +70,23 @@ Iteration 2000, Total Loss: 863113.6875
 Iteration 4000, Total Loss: 244272.9688
 SSIM for chicago with style starry-night: 0.43
 
+Processing chicago with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 100% 6000/6000 [05:57<00:00, 16.55it/s]
+Iteration 0, Total Loss: 30029440.0000
+Iteration 2000, Total Loss: 1856067.5000
+Iteration 4000, Total Loss: 522974.8438
+SSIM for chicago with style Ten-Most-Famous-Paintings-in-the-World-e1433771126968: 0.51
 
+Processing chicago with style udnie: 100% 6000/6000 [06:03<00:00, 16.47it/s]
+Iteration 0, Total Loss: 9234677.0000
+Iteration 2000, Total Loss: 295261.1250
+Iteration 4000, Total Loss: 109827.7891
+SSIM for chicago with style udnie: 0.69
+
+Processing chicago with style Vincent-van-Gogh: 100% 6000/6000 [06:02<00:00, 16.55it/s]
+Iteration 0, Total Loss: 10679720.0000
+Iteration 2000, Total Loss: 306045.5938
+Iteration 4000, Total Loss: 106208.3750
+SSIM for chicago with style Vincent-van-Gogh: 0.52
 
 Processing chicago with style wave_crop:   0%|          | 0/6000 [00:00<?, ?it/s]Iteration 0, Total Loss: 18190600.0000
 Processing chicago with style wave_crop:  33%|███▎      | 2000/6000 [2:03:15<4:05:12,  3.68s/it]Iteration 2000, Total Loss: 369767.6250
